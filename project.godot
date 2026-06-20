@@ -14,7 +14,7 @@ config/name="dodge"
 config/version="1.1"
 run/main_scene="uid://dslyts5vmp051"
 config/custom_user_dir_name="https://github.com/expensive-pence2/Dodge.git"
-config/features=PackedStringArray("4.6", "Forward Plus")
+config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
 
 [display]
